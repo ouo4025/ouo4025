@@ -38,10 +38,11 @@
 
 ---
 
-## 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/ouo4025/ouo4025/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+
+  ## 🐍 Contribution Graph
+![snake gif](https://github.com/ouo4025/ouo4025/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ---
 
