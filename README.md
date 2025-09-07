@@ -47,7 +47,7 @@
 ---
 
 ## 🔗 Links
-- 💼 [Portfolio Website](https://www.chaeeun.net)  
+- 💼 [Portfolio Website](https://ouo4025.github.io/portfolio_ver3/)  
 - 📒 [Notion](https://www.notion.so/19fc035d655d80fca229e63fdc51a737?v=19fc035d655d818da09c000c512252ca)  
 - 🐙 [GitHub](https://github.com/ouo4025)  
 
