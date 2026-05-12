@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Hi, I'm Chaeeun 🌸</h1>
 <p align="center">
   💻 Frontend Developer | 🎨 UI/UX Enthusiast <br/>
-  열정과 성실함으로 성장하는 개발자, <b>조채은</b>입니다!
+  열정과 성실함으로 성장하는 웹퍼블리셔, <b>조채은</b>입니다!
 </p>
 
 ---
